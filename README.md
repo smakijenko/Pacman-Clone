@@ -1,2 +1,5 @@
-# Pacman-Clone
-Another project in Swift, using SpriteKit
+The game was written in Swift using SpriteKit
+
+Hi, here is the link to watch how the game looks like: youtube.com/shorts/W3vYF1v0BLM?feature=share
+
+Feel free :)
